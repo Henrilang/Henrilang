@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Henrilang
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning code/Ruby
-- 💞️ I’m looking to collaborate on knowledge 
+- 👀 I’m a brand new full-stack Web Developer from Le Wagon London
+- 🌱 I’m currently looking to build a meaningful career as a full stack on tech companies.
+- 💞️ I’m looking to collaborate on knowledge with my passion for Front-end and desing 
 - 📫 How to reach me henri.slang@gmail.com
 
 <!---
